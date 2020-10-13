@@ -1,2 +1,3 @@
-forgitignore
+/forignore.txt
 *.conf
+/.idea
